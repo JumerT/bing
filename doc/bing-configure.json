@@ -2,7 +2,7 @@
     "desktop": "gnome3",
     "Gnome3": "gsettings set org.gnome.desktop.background picture-uri ",
     
-    "base-url": "https://cn.bing.com",
+    "base-url": "http://cn.bing.com",
     "user-agent": "User-Agent:Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0",
     "bing-url": "http://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1"
 }
